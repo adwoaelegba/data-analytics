@@ -9,3 +9,6 @@ This dashboard provides an overview of Target's monthly sales, profits, and loss
 
 # Sysco Shipping Dashboard
 This dashboard provides an overview of key performance indicators (KPIs) such as the number of companies served, average shipping quantity, and total revenue. It also highlights the best-performing product categories and top customer companies by region. This dashboard informs strategic decisions related to customer loyalty and retention, product sourcing, and other critical areas.
+
+# California Wildfire Damage Dashboard
+This dashboard visualizes the impact of wildfire damage across various counties in California, highlighting key indicators such as fatalities, financial loss, and other affected areas. It also identifies the major causes of these fires. The insights provided aim to increase awareness of the scale of the damage and support informed discussions around prevention and mitigation strategies.
