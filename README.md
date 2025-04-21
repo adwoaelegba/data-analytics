@@ -12,3 +12,8 @@ This dashboard provides an overview of key performance indicators (KPIs) such as
 
 # California Wildfire Damage Dashboard
 This dashboard visualizes the impact of wildfire damage across various counties in California, highlighting key indicators such as fatalities, financial loss, and other affected areas. It also identifies the major causes of these fires. The insights provided aim to increase awareness of the scale of the damage and support informed discussions around prevention and mitigation strategies.
+
+# Social Buzz Insights Document
+This document presents an analysis and strategic recommendations for Social Buzz, a unicorn social media company preparing to go public. It highlights the platform’s top-performing content categories and offers additional insights to help drive profitability and increase overall user engagement.
+
+
